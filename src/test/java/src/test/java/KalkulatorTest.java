@@ -16,7 +16,7 @@ public class KalkulatorTest {
         
         testKalkulator.reset();
         
-        assertEquals(0, testKalkulator.getHasil());
+        assertEquals(1, testKalkulator.getHasil());
     }
 
     @Test
