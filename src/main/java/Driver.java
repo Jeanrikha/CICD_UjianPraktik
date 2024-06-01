@@ -6,7 +6,7 @@ public class Driver {
 		
 		Kalkulator counter = new Kalkulator();
 		
-		System.out.println("hasil :" + counter.getHasil());
+		System.out.println("Hasil :" + counter.getHasil());
 		
 		counter.tambah();
 		
